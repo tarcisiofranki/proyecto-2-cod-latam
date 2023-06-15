@@ -140,13 +140,13 @@ h1{
  }
 
  .iconos {
-    width: 10%;
+    width: 20%;
  }
  
  #iconos_redes a {
     display:inline;
     text-align: center;
-    padding-left: 18%;
+    padding-left: 9%;
  }
  
  footer {
@@ -185,6 +185,14 @@ h1{
     p {
         text-align:justify;
     }
+
+    .iconos {
+        width: 10%;
+     }
+
+     #iconos_redes a {
+        padding-left: 18%;
+     }
  }
 
 
